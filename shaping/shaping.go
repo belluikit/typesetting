@@ -3,10 +3,10 @@
 package shaping
 
 import (
-	"github.com/trendvidia/typesetting/di"
-	ft "github.com/trendvidia/typesetting/font"
-	"github.com/trendvidia/typesetting/harfbuzz"
-	ucd "github.com/trendvidia/typesetting/internal/unicodedata"
+	"github.com/belluikit/typesetting/di"
+	ft "github.com/belluikit/typesetting/font"
+	"github.com/belluikit/typesetting/harfbuzz"
+	ucd "github.com/belluikit/typesetting/internal/unicodedata"
 	"golang.org/x/image/math/fixed"
 )
 

@@ -10,9 +10,9 @@ import (
 	"testing"
 
 	td "github.com/go-text/typesetting-utils/harfbuzz"
-	"github.com/trendvidia/typesetting/font"
-	"github.com/trendvidia/typesetting/language"
-	tu "github.com/trendvidia/typesetting/testutils"
+	"github.com/belluikit/typesetting/font"
+	"github.com/belluikit/typesetting/language"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 // collectTests walk through the tests directories, parsing .tests files

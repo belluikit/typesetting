@@ -10,11 +10,11 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/trendvidia/typesetting/di"
-	"github.com/trendvidia/typesetting/font"
-	"github.com/trendvidia/typesetting/language"
-	"github.com/trendvidia/typesetting/segmenter"
-	tu "github.com/trendvidia/typesetting/testutils"
+	"github.com/belluikit/typesetting/di"
+	"github.com/belluikit/typesetting/font"
+	"github.com/belluikit/typesetting/language"
+	"github.com/belluikit/typesetting/segmenter"
+	tu "github.com/belluikit/typesetting/testutils"
 	"golang.org/x/image/font/gofont/goregular"
 	"golang.org/x/image/math/fixed"
 )

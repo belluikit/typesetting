@@ -1,7 +1,7 @@
 package di
 
 import (
-	"github.com/trendvidia/typesetting/harfbuzz"
+	"github.com/belluikit/typesetting/harfbuzz"
 )
 
 // Direction indicates the layout direction of a piece of text.

@@ -3,7 +3,7 @@ package fontscan
 import (
 	"strings"
 
-	"github.com/trendvidia/typesetting/font"
+	"github.com/belluikit/typesetting/font"
 )
 
 // this file implements the family substitution feature,

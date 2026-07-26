@@ -6,7 +6,7 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"github.com/trendvidia/typesetting/font/opentype/tables"
+	"github.com/belluikit/typesetting/font/opentype/tables"
 )
 
 type os2 struct {

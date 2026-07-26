@@ -3,10 +3,10 @@ package harfbuzz
 import (
 	"fmt"
 
-	"github.com/trendvidia/typesetting/font"
-	ot "github.com/trendvidia/typesetting/font/opentype"
-	"github.com/trendvidia/typesetting/font/opentype/tables"
-	ucd "github.com/trendvidia/typesetting/internal/unicodedata"
+	"github.com/belluikit/typesetting/font"
+	ot "github.com/belluikit/typesetting/font/opentype"
+	"github.com/belluikit/typesetting/font/opentype/tables"
+	ucd "github.com/belluikit/typesetting/internal/unicodedata"
 )
 
 // Support functions for OpenType shaping related queries.

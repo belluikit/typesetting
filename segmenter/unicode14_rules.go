@@ -3,7 +3,7 @@
 package segmenter
 
 import (
-	ucd "github.com/trendvidia/typesetting/internal/unicodedata"
+	ucd "github.com/belluikit/typesetting/internal/unicodedata"
 )
 
 // Apply the Line Breaking Rules and returns the computed break opportunity

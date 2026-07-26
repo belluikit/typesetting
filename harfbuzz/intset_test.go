@@ -5,7 +5,7 @@ import (
 	"sort"
 	"testing"
 
-	tu "github.com/trendvidia/typesetting/testutils"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 // newIntSet builds a set containing the given runes.

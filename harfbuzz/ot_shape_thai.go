@@ -1,8 +1,8 @@
 package harfbuzz
 
 import (
-	ucd "github.com/trendvidia/typesetting/internal/unicodedata"
-	"github.com/trendvidia/typesetting/language"
+	ucd "github.com/belluikit/typesetting/internal/unicodedata"
+	"github.com/belluikit/typesetting/language"
 )
 
 // ported from harfbuzz/src/hb-ot-shape-complex-thai.cc Copyright © 2010,2012  Google, Inc.  Behdad Esfahbod

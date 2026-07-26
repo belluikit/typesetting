@@ -9,8 +9,8 @@ import (
 	"errors"
 	"fmt"
 
-	ps "github.com/trendvidia/typesetting/font/cff/interpreter"
-	"github.com/trendvidia/typesetting/font/opentype"
+	ps "github.com/belluikit/typesetting/font/cff/interpreter"
+	"github.com/belluikit/typesetting/font/opentype"
 )
 
 var errUnsupportedCFFVersion = errors.New("unsupported CFF version")

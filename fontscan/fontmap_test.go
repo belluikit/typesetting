@@ -12,11 +12,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trendvidia/typesetting/font"
-	ot "github.com/trendvidia/typesetting/font/opentype"
-	"github.com/trendvidia/typesetting/language"
-	"github.com/trendvidia/typesetting/shaping"
-	tu "github.com/trendvidia/typesetting/testutils"
+	"github.com/belluikit/typesetting/font"
+	ot "github.com/belluikit/typesetting/font/opentype"
+	"github.com/belluikit/typesetting/language"
+	"github.com/belluikit/typesetting/shaping"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 func ExampleFontMap_UseSystemFonts() {
@@ -382,7 +382,7 @@ func TestDumpSystemFonts(t *testing.T) {
 	}
 	code := fmt.Sprintf(`
 	package fontscan
-	import "github.com/trendvidia/typesetting/font"
+	import "github.com/belluikit/typesetting/font"
 
 	// extracted from a linux system
 	var linuxSampleFontSet = 

@@ -1,6 +1,6 @@
 package harfbuzz
 
-import fontP "github.com/trendvidia/typesetting/font"
+import fontP "github.com/belluikit/typesetting/font"
 
 func simpleKern(kernTable fontP.Kernx) fontP.SimpleKerns {
 	for _, subtable := range kernTable {

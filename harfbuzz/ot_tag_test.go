@@ -3,9 +3,9 @@ package harfbuzz
 import (
 	"testing"
 
-	ot "github.com/trendvidia/typesetting/font/opentype"
-	"github.com/trendvidia/typesetting/font/opentype/tables"
-	"github.com/trendvidia/typesetting/language"
+	ot "github.com/belluikit/typesetting/font/opentype"
+	"github.com/belluikit/typesetting/font/opentype/tables"
+	"github.com/belluikit/typesetting/language"
 )
 
 // ported from harfbuzz/test/api/test-ot-tag.c Copyright © 2011  Google, Inc. Behdad Esfahbod

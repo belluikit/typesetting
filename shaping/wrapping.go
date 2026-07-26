@@ -4,8 +4,8 @@ import (
 	"math"
 	"sort"
 
-	"github.com/trendvidia/typesetting/di"
-	"github.com/trendvidia/typesetting/segmenter"
+	"github.com/belluikit/typesetting/di"
+	"github.com/belluikit/typesetting/segmenter"
 	"golang.org/x/image/math/fixed"
 )
 

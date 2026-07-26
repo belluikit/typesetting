@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	tu "github.com/trendvidia/typesetting/testutils"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 type initMode int

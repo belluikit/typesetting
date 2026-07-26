@@ -1,8 +1,8 @@
 package shaping
 
 import (
-	"github.com/trendvidia/typesetting/font"
-	"github.com/trendvidia/typesetting/harfbuzz"
+	"github.com/belluikit/typesetting/font"
+	"github.com/belluikit/typesetting/harfbuzz"
 )
 
 // adjust the cache size of the zero value, used by default

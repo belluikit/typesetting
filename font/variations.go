@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/trendvidia/typesetting/font/opentype/tables"
+	"github.com/belluikit/typesetting/font/opentype/tables"
 )
 
 // axis records

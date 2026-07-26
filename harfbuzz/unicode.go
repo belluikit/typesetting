@@ -1,7 +1,7 @@
 package harfbuzz
 
 import (
-	ucd "github.com/trendvidia/typesetting/internal/unicodedata"
+	ucd "github.com/belluikit/typesetting/internal/unicodedata"
 )
 
 // generalCategory is an enum value to allow compact storage (see generalCategories)

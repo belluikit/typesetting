@@ -7,8 +7,8 @@ import (
 	"image/png"
 	"os"
 
-	"github.com/trendvidia/typesetting/font"
-	"github.com/trendvidia/typesetting/font/opentype"
+	"github.com/belluikit/typesetting/font"
+	"github.com/belluikit/typesetting/font/opentype"
 )
 
 // this file implements a very primitive "rasterizer", which can

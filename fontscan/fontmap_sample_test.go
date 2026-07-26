@@ -1,6 +1,6 @@
 package fontscan
 
-import "github.com/trendvidia/typesetting/font"
+import "github.com/belluikit/typesetting/font"
 
 // extracted from a linux system
 var linuxSampleFontSet = fontSet{

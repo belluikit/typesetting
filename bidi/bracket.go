@@ -4,7 +4,7 @@ import (
 	"container/list"
 	"sort"
 
-	ucd "github.com/trendvidia/typesetting/internal/unicodedata"
+	ucd "github.com/belluikit/typesetting/internal/unicodedata"
 )
 
 // This file contains a port of the reference implementation of the

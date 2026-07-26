@@ -5,7 +5,7 @@ package tables
 import (
 	"testing"
 
-	tu "github.com/trendvidia/typesetting/testutils"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 func TestParseSVG(t *testing.T) {

@@ -10,7 +10,7 @@ import (
 	"testing"
 
 	td "github.com/go-text/typesetting-utils/opentype"
-	tu "github.com/trendvidia/typesetting/testutils"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 func deHexStr(s string) []byte {

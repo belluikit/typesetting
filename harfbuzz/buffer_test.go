@@ -3,8 +3,8 @@ package harfbuzz
 import (
 	"testing"
 
-	"github.com/trendvidia/typesetting/language"
-	tu "github.com/trendvidia/typesetting/testutils"
+	"github.com/belluikit/typesetting/language"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 // ported from harfbuzz/test/api/test-buffer.c Copyright © 2011  Google, Inc. Behdad Esfahbod

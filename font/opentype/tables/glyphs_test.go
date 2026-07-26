@@ -10,8 +10,8 @@ import (
 	"testing"
 
 	td "github.com/go-text/typesetting-utils/opentype"
-	ot "github.com/trendvidia/typesetting/font/opentype"
-	tu "github.com/trendvidia/typesetting/testutils"
+	ot "github.com/belluikit/typesetting/font/opentype"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 func TestParseGlyf(t *testing.T) {

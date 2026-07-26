@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/trendvidia/typesetting/font"
-	"github.com/trendvidia/typesetting/language"
+	"github.com/belluikit/typesetting/font"
+	"github.com/belluikit/typesetting/language"
 )
 
 func allIndices(fs fontSet) []int {

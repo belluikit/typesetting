@@ -3,8 +3,8 @@ package harfbuzz
 import (
 	"fmt"
 
-	"github.com/trendvidia/typesetting/font/opentype/tables"
-	ucd "github.com/trendvidia/typesetting/internal/unicodedata"
+	"github.com/belluikit/typesetting/font/opentype/tables"
+	ucd "github.com/belluikit/typesetting/internal/unicodedata"
 )
 
 // Position stores a position, scaled according to the `Font`

@@ -1,4 +1,4 @@
-module github.com/trendvidia/typesetting
+module github.com/belluikit/typesetting
 
 go 1.25.0
 

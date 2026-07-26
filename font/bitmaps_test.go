@@ -7,8 +7,8 @@ import (
 	"testing"
 
 	td "github.com/go-text/typesetting-utils/opentype"
-	"github.com/trendvidia/typesetting/font/opentype/tables"
-	tu "github.com/trendvidia/typesetting/testutils"
+	"github.com/belluikit/typesetting/font/opentype/tables"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 func TestBloc(t *testing.T) {

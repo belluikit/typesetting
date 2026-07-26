@@ -1,9 +1,9 @@
 package harfbuzz
 
 import (
-	ot "github.com/trendvidia/typesetting/font/opentype"
-	"github.com/trendvidia/typesetting/font/opentype/tables"
-	ucd "github.com/trendvidia/typesetting/internal/unicodedata"
+	ot "github.com/belluikit/typesetting/font/opentype"
+	"github.com/belluikit/typesetting/font/opentype/tables"
+	ucd "github.com/belluikit/typesetting/internal/unicodedata"
 )
 
 // ported from harfbuzz/src/hb-ot-shape-complex-hangul.cc Copyright © 2013  Google, Inc. Behdad Esfahbod

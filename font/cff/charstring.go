@@ -6,9 +6,9 @@ import (
 	"errors"
 	"fmt"
 
-	ps "github.com/trendvidia/typesetting/font/cff/interpreter"
-	ot "github.com/trendvidia/typesetting/font/opentype"
-	"github.com/trendvidia/typesetting/font/opentype/tables"
+	ps "github.com/belluikit/typesetting/font/cff/interpreter"
+	ot "github.com/belluikit/typesetting/font/opentype"
+	"github.com/belluikit/typesetting/font/opentype/tables"
 )
 
 // LoadGlyph parses the glyph charstring to compute segments and path bounds.

@@ -3,8 +3,8 @@ package harfbuzz
 import (
 	"fmt"
 
-	"github.com/trendvidia/typesetting/font"
-	"github.com/trendvidia/typesetting/font/opentype/tables"
+	"github.com/belluikit/typesetting/font"
+	"github.com/belluikit/typesetting/font/opentype/tables"
 )
 
 func (c *aatApplyContext) applyMorx(chain font.MorxChain, accelerators []morxSubtableAccelerator) {

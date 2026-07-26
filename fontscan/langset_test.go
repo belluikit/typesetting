@@ -4,9 +4,9 @@ import (
 	"os"
 	"testing"
 
-	ot "github.com/trendvidia/typesetting/font/opentype"
-	"github.com/trendvidia/typesetting/language"
-	tu "github.com/trendvidia/typesetting/testutils"
+	ot "github.com/belluikit/typesetting/font/opentype"
+	"github.com/belluikit/typesetting/language"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 func TestNewLangset(t *testing.T) {

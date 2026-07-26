@@ -5,7 +5,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/trendvidia/typesetting/language"
+	"github.com/belluikit/typesetting/language"
 )
 
 // LangID is a compact representation of a language

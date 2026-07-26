@@ -1,10 +1,10 @@
 package harfbuzz
 
 import (
-	ot "github.com/trendvidia/typesetting/font/opentype"
-	"github.com/trendvidia/typesetting/font/opentype/tables"
-	ucd "github.com/trendvidia/typesetting/internal/unicodedata"
-	"github.com/trendvidia/typesetting/language"
+	ot "github.com/belluikit/typesetting/font/opentype"
+	"github.com/belluikit/typesetting/font/opentype/tables"
+	ucd "github.com/belluikit/typesetting/internal/unicodedata"
+	"github.com/belluikit/typesetting/language"
 )
 
 type zeroWidthMarks uint8

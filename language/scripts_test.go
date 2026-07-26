@@ -4,7 +4,7 @@ import (
 	"testing"
 	"unicode"
 
-	tu "github.com/trendvidia/typesetting/testutils"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 func TestParseScript(t *testing.T) {

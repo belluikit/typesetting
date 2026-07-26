@@ -5,9 +5,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/trendvidia/typesetting/font"
-	"github.com/trendvidia/typesetting/language"
-	tu "github.com/trendvidia/typesetting/testutils"
+	"github.com/belluikit/typesetting/font"
+	"github.com/belluikit/typesetting/language"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 // Unit tests for glyph advance Widths and extents of TrueType variable fonts
@@ -268,7 +268,7 @@ func TestNames(t *testing.T) {
 }
 
 func TestUnifont(t *testing.T) {
-	// https://github.com/trendvidia/typesetting/issues/140
+	// https://github.com/belluikit/typesetting/issues/140
 	ft := openFontFileTT(t, "bitmap/unifont-15.1.05.otf")
 
 	buf := NewBuffer()

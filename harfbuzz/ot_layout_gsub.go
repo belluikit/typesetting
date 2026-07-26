@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"math/bits"
 
-	"github.com/trendvidia/typesetting/font"
-	"github.com/trendvidia/typesetting/font/opentype/tables"
+	"github.com/belluikit/typesetting/font"
+	"github.com/belluikit/typesetting/font/opentype/tables"
 )
 
 const maxContextLength = 64

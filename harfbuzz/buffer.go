@@ -1,8 +1,8 @@
 package harfbuzz
 
 import (
-	"github.com/trendvidia/typesetting/font/opentype/tables"
-	"github.com/trendvidia/typesetting/language"
+	"github.com/belluikit/typesetting/font/opentype/tables"
+	"github.com/belluikit/typesetting/language"
 )
 
 /* ported from harfbuzz/src/hb-buffer.hh and hb-buffer.h

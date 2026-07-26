@@ -8,9 +8,9 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/trendvidia/typesetting/font"
-	"github.com/trendvidia/typesetting/language"
-	tu "github.com/trendvidia/typesetting/testutils"
+	"github.com/belluikit/typesetting/font"
+	"github.com/belluikit/typesetting/language"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 // newRuneSet builds a set containing the given runes.

@@ -2,7 +2,7 @@
 
 package font
 
-import "github.com/trendvidia/typesetting/font/opentype/tables"
+import "github.com/belluikit/typesetting/font/opentype/tables"
 
 type Morx []MorxChain
 

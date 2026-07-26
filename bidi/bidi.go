@@ -5,7 +5,7 @@
 package bidi
 
 import (
-	ucd "github.com/trendvidia/typesetting/internal/unicodedata"
+	ucd "github.com/belluikit/typesetting/internal/unicodedata"
 )
 
 // Paragraph is the main entry point of the package.

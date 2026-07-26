@@ -11,7 +11,7 @@ import (
 	"sort"
 	"strings"
 
-	ot "github.com/trendvidia/typesetting/font/opentype"
+	ot "github.com/belluikit/typesetting/font/opentype"
 )
 
 // DefaultFontDirectories return the OS-dependent usual directories for

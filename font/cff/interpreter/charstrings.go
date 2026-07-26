@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"math"
 
-	ot "github.com/trendvidia/typesetting/font/opentype"
+	ot "github.com/belluikit/typesetting/font/opentype"
 )
 
 // PathBounds represents a control bounds for

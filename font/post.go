@@ -5,7 +5,7 @@ package font
 import (
 	"errors"
 
-	"github.com/trendvidia/typesetting/font/opentype/tables"
+	"github.com/belluikit/typesetting/font/opentype/tables"
 )
 
 const numBuiltInPostNames = len(builtInPostNames)

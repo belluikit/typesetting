@@ -4,8 +4,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/trendvidia/typesetting/font/opentype/tables"
-	tu "github.com/trendvidia/typesetting/testutils"
+	"github.com/belluikit/typesetting/font/opentype/tables"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 // ported from harfbuzz/test/api/test-aat-layout.c Copyright © 2018  Ebrahim Byagowi

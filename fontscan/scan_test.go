@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	tu "github.com/trendvidia/typesetting/testutils"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 func TestDefaultDirs(t *testing.T) {

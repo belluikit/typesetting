@@ -6,7 +6,7 @@ import (
 	"sort"
 	"testing"
 
-	tu "github.com/trendvidia/typesetting/testutils"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 func TestLanguage(t *testing.T) {

@@ -3,7 +3,7 @@ package harfbuzz
 import (
 	"testing"
 
-	ot "github.com/trendvidia/typesetting/font/opentype"
+	ot "github.com/belluikit/typesetting/font/opentype"
 )
 
 func TestOTFeature(t *testing.T) {

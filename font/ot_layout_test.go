@@ -7,8 +7,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/trendvidia/typesetting/font/opentype/tables"
-	tu "github.com/trendvidia/typesetting/testutils"
+	"github.com/belluikit/typesetting/font/opentype/tables"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 func TestGetProps(t *testing.T) {

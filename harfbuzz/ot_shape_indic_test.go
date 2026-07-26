@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	tu "github.com/trendvidia/typesetting/testutils"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 func TestIndicGetCategories(t *testing.T) {

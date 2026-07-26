@@ -8,10 +8,10 @@ import (
 	"testing"
 
 	hd "github.com/go-text/typesetting-utils/harfbuzz"
-	"github.com/trendvidia/typesetting/di"
-	"github.com/trendvidia/typesetting/font"
-	"github.com/trendvidia/typesetting/language"
-	tu "github.com/trendvidia/typesetting/testutils"
+	"github.com/belluikit/typesetting/di"
+	"github.com/belluikit/typesetting/font"
+	"github.com/belluikit/typesetting/language"
+	tu "github.com/belluikit/typesetting/testutils"
 	"golang.org/x/image/math/fixed"
 )
 

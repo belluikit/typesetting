@@ -3,7 +3,7 @@ package tables
 import (
 	"testing"
 
-	tu "github.com/trendvidia/typesetting/testutils"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 func TestCOLR(t *testing.T) {

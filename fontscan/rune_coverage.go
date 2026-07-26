@@ -6,8 +6,8 @@ import (
 	"math/bits"
 	"sort"
 
-	"github.com/trendvidia/typesetting/font"
-	"github.com/trendvidia/typesetting/language"
+	"github.com/belluikit/typesetting/font"
+	"github.com/belluikit/typesetting/language"
 )
 
 // Rune coverage implementation, inspired by the fontconfig FcCharset type.

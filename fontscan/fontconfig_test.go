@@ -9,7 +9,7 @@ import (
 	"sort"
 	"testing"
 
-	tu "github.com/trendvidia/typesetting/testutils"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 func TestParseFontconfig(t *testing.T) {

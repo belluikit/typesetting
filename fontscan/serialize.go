@@ -11,7 +11,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/trendvidia/typesetting/font"
+	"github.com/belluikit/typesetting/font"
 )
 
 // defines the routines to serialize a font set to

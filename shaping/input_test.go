@@ -6,10 +6,10 @@ import (
 	"testing"
 	"unicode"
 
-	"github.com/trendvidia/typesetting/di"
-	"github.com/trendvidia/typesetting/font"
-	"github.com/trendvidia/typesetting/language"
-	tu "github.com/trendvidia/typesetting/testutils"
+	"github.com/belluikit/typesetting/di"
+	"github.com/belluikit/typesetting/font"
+	"github.com/belluikit/typesetting/language"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 func Test_ignoreFaceChange(t *testing.T) {
@@ -746,7 +746,7 @@ func TestSplit(t *testing.T) {
 }
 
 func TestIssue127(t *testing.T) {
-	// regression test for https://github.com/trendvidia/typesetting/issues/127
+	// regression test for https://github.com/belluikit/typesetting/issues/127
 	str := []rune("لمّا")
 	input := Input{
 		Text:      str,

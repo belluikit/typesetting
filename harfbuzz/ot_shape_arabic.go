@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/trendvidia/typesetting/font"
-	ot "github.com/trendvidia/typesetting/font/opentype"
-	"github.com/trendvidia/typesetting/font/opentype/tables"
-	ucd "github.com/trendvidia/typesetting/internal/unicodedata"
-	"github.com/trendvidia/typesetting/language"
+	"github.com/belluikit/typesetting/font"
+	ot "github.com/belluikit/typesetting/font/opentype"
+	"github.com/belluikit/typesetting/font/opentype/tables"
+	ucd "github.com/belluikit/typesetting/internal/unicodedata"
+	"github.com/belluikit/typesetting/language"
 )
 
 // ported from harfbuzz/src/hb-ot-shape-complex-arabic.cc, hb-ot-shape-complex-arabic-fallback.hh Copyright © 2010,2012  Google, Inc. Behdad Esfahbod

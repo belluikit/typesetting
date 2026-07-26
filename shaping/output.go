@@ -3,8 +3,8 @@
 package shaping
 
 import (
-	"github.com/trendvidia/typesetting/di"
-	"github.com/trendvidia/typesetting/font"
+	"github.com/belluikit/typesetting/di"
+	"github.com/belluikit/typesetting/font"
 	"golang.org/x/image/math/fixed"
 )
 

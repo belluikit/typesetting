@@ -3,8 +3,8 @@ package di
 import (
 	"testing"
 
-	"github.com/trendvidia/typesetting/harfbuzz"
-	tu "github.com/trendvidia/typesetting/testutils"
+	"github.com/belluikit/typesetting/harfbuzz"
+	tu "github.com/belluikit/typesetting/testutils"
 )
 
 func TestDirection(t *testing.T) {
