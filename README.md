@@ -1,3 +1,10 @@
+> **Fork notice:** this is a fork of [go-text/typesetting](https://github.com/go-text/typesetting),
+> maintained for [Bellui](https://bellui.com) under the module path
+> `github.com/belluikit/typesetting`. Upstream copyright and the
+> Unlicense OR BSD-3-Clause license are retained in full (see `LICENSE`, and
+> `harfbuzz/LICENSE` for the HarfBuzz port). The fork adds thread-safety to the
+> Face glyph and cmap caches.
+
 # typesetting
 
 This library provides typesetting capabilities in pure Go. It is appropriate for use in GUI applications, and is shared by multiple Go UI toolkits including [Fyne](https://fyne.io), [Gio](https://gioui.org), and [Ebitengine](https://ebitengine.org).
